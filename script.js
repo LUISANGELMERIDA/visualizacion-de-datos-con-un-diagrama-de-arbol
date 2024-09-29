@@ -55,7 +55,7 @@ const DATASETS = {
       '#db4db1',
       '#ff7f0e',
       '#eaf734',
-      '#f77a05',
+      '#05e3f7',
       '#7bf763',
       '#db124e',
       '#64cdd9',
