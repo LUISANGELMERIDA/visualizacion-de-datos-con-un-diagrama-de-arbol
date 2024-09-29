@@ -51,7 +51,7 @@ const DATASETS = {
   var color = d3.scaleOrdinal().range(
     // Recreate .schemeCategory20
     [
-      '#b41faf',
+      '#1f53b4',
       '#05f2bf',
       '#ff7f0e',
       '#eaf734',
