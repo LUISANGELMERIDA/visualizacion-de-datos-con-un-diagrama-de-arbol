@@ -52,7 +52,7 @@ const DATASETS = {
     // Recreate .schemeCategory20
     [
       '#b41faf',
-      '#db4db1',
+      '#05f2bf',
       '#ff7f0e',
       '#eaf734',
       '#05e3f7',
