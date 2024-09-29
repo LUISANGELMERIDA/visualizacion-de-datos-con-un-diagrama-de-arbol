@@ -68,9 +68,9 @@ const DATASETS = {
       '#7f7f7f',
       '#c7c7c7',
       '#bcbd22',
-      '#dbdb8d',
-      '#17becf',
-      '#9edae5'
+      '#de3a65',
+      '#e8e813',
+      '#67b9bd'
     ].map(fader)
   );
   
